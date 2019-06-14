@@ -1,1 +1,1 @@
-story
+An atom scriptwriting plugin.
