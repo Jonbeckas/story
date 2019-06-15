@@ -1,0 +1,47 @@
+
+scopeName: 'main.story'
+name: 'Movie Script'
+fileTypes: ['script']
+patterns: [
+	{
+		match: '\'(.*?)\''
+		name: 'scene'
+	},
+	{
+		match:'@(.*?)\\s'
+		name: 'character'
+	},
+	{
+		match: '(EXT)|(INT)'
+		name: 'set'
+	},
+	{
+		match: '(DAY)|(NIGHT)'
+		name: 'time'
+	},
+	{
+		match: '\\/\\/'
+		name:'scene'
+	},
+  {
+    match:'#(.*?)\\n'
+    name:'comment'
+  },
+	{
+		  begin:'"'
+			end: '"'
+			name:'speech'
+			patterns: [
+				{
+					begin: '\\('
+					end:'\\)'
+					name: 'regie'
+				}
+			]
+	},
+	{
+		begin:'\\/\\*'
+		end: '\\*\\/'
+		name: 'title'
+	}
+]

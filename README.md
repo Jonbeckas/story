@@ -1,1 +1,1 @@
-An atom scriptwriting plugin.
+An atom scriptwriting plugin, made for LUMOS.
