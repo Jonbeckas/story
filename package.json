@@ -1,7 +1,7 @@
 {
   "name": "story",
   "description": "An atom scripwriting plugin, made for Lumos-Projects",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "repository": "https://github.com/Jonbeckas/story",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
