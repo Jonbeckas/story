@@ -1,11 +1,12 @@
 {
   "name": "story",
   "description": "An atom scripwriting plugin, made for Lumos-Projects",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "repository": "https://github.com/Jonbeckas/story",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "homepage": "https://github.com/Jonbeckas/story",
-  "readmeFilename": "README.md"
+  "readmeFilename": "README.md",
+  "licence":"GNU GPLv3"
 }

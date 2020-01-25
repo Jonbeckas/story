@@ -2,12 +2,12 @@ An atom scriptwriting plugin, made for LUMOS.
 
 # Syntax
 
-| Syntax        | Explenation           | 
+| Syntax        | Explenation           |
 | ------------- |:-------------:|
-| /\*...\*/     | Title          | 
-| // ENV TIME 'Name'      | Scene      | 
+| /\*...\*/     | Title          |
+| // ENV TIME 'Name'      | Scene      |
 | EXT\|IN | Enviroment      |
-|DAY\|NIGHT|Time|
+|DAY\|NIGHT\|EVENING\|MORNING\|NOON|Time|
 |@Name|Character|
 |""|Speech|
 |"(directing Instruction)"|Directing Instruction|

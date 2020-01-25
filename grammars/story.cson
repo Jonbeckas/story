@@ -16,7 +16,7 @@ patterns: [
 		name: 'set'
 	},
 	{
-		match: '(DAY)|(NIGHT)'
+		match: '(DAY)|(NIGHT)|(EVENING)|(MORNING)|(NOON)'
 		name: 'time'
 	},
 	{
