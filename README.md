@@ -11,6 +11,7 @@ An atom scriptwriting plugin, made for LUMOS.
 |@Name|Character|
 |""|Speech|
 |"(directing Instruction)"|Directing Instruction|
+|#comment|Comment|
 
 # Example
 
