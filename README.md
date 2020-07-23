@@ -13,7 +13,7 @@ An atom scriptwriting plugin, made for LUMOS.
 |"(directing Instruction)"|Directing Instruction|
 |#comment|Comment|
 |+Object|Off camera objects|
-|*object|set objects|
+|*object|Props|
 
 # Example
 
