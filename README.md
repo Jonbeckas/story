@@ -17,15 +17,4 @@ An atom scriptwriting plugin, made for LUMOS.
 
 # Example
 
-```
-/*Script Project 1*/
-
-// EXT DAY 'Toms cool Scene'
-@Test1 stands in room.
-@Test1 "Lorem ipsum?
-(sad)Lorem Ipsum
-(happy) Lorem ipsum"
-@Test2 goes to @Test1
-@Test2 "(happy) Loremipsum"
-+Camera zooms on *Apple #A very nice zoom
-```
+![alt See example.script for an Example](https://raw.githubusercontent.com/Jonbeckas/story/master/example.png)
