@@ -12,6 +12,14 @@ patterns: [
 		name: 'character'
 	},
 	{
+		match:'\\+(.*?)\\s'
+		name: 'camera'
+	},
+	{
+		match:'\\*(.*?)\\s'
+		name: 'thing'
+	},
+	{
 		match: '(EXT)|(INT)'
 		name: 'set'
 	},
